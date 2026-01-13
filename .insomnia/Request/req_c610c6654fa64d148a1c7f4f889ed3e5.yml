@@ -13,11 +13,9 @@ headers:
   - name: User-Agent
     value: insomnia/11.0.0
 authentication: {}
-preRequestScript: null
 metaSortKey: -1768287752456
 isPrivate: false
 pathParameters: []
-afterResponseScript: null
 settingStoreCookies: true
 settingSendCookies: true
 settingDisableRenderRequestBody: false
