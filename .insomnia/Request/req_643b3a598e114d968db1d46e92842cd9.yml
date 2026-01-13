@@ -1,0 +1,26 @@
+_id: req_643b3a598e114d968db1d46e92842cd9
+type: Request
+parentId: wrk_9eb44107d6f945e982acf4ac234bc58d
+modified: 1768288651242
+created: 1768288649386
+url: https://www.baidu.com
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/12.3.0
+    description: ""
+    disabled: false
+authentication: {}
+metaSortKey: -1768288649386
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
